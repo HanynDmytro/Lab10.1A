@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Politeh\AP\LAB\pr10\pr10.1\A\10.1A\10.1A\Source.cpp(34,1): warning C4715: 'Student::return_major': not all control paths return a value
+  10.1A.vcxproj -> D:\Politeh\AP\LAB\pr10\pr10.1\A\10.1A\x64\Debug\10.1A.exe
